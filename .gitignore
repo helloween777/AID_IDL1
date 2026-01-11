@@ -1,0 +1,17 @@
+# Entorno virtual
+venv_AID/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit
+.streamlit/
+
+# Variables de entorno
+.env
+
+# Datos sensibles 
+*.csv
+*.xlsx
